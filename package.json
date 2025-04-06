@@ -17,9 +17,10 @@
     "vite": "^6.2.3"
   },
   "dependencies": {
+    "lil-gui": "^0.20.0",
     "three": "^0.174.0"
   },
   "prettier": {
-    "printWidth": 130
+    "printWidth": 160
   }
 }
